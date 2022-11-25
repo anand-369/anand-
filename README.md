@@ -12,7 +12,7 @@ This is a web based application developed for health related based website in in
 
 - Static web apps
 - Health bot
-
+![Screenshot_2022-11-10-23-41-08-89_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/115984065/204011393-2eaa394f-4d1e-40a5-8e83-1c227e66912a.jpg)
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
@@ -27,8 +27,7 @@ This is a web based application developed for health related based website in in
 
 ![Screenshot_2022-11-10-23-40-40-17_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/115984065/201177268-1e2d7333-931d-4c7f-a95d-64c38446783e.jpg)
 
-### Azure Technologies -
-![Screenshot_2022-11-10-23-41-08-89_40deb401b9ffe8e1df2f1cc5ba480b12](https://user-images.githubusercontent.com/115984065/204011393-2eaa394f-4d1e-40a5-8e83-1c227e66912a.jpg)
+
 
 
 ### About Us -

@@ -29,7 +29,7 @@ This is a web based application developed for health related based website in in
 ### health bot
 ![IMG_20230116_113247 (1)](https://user-images.githubusercontent.com/115984065/212721134-18a6100e-ca7c-46ad-8b1c-07bbd1cdef62.jpg)
 
-![Uploading ![IMG_20230116_113134](https://user-images.githubusercontent.com/115984065/212721211-c995f107-839e-4f05-90c1-1c31910b3293.jpg)
+![IMG_20230116_113134](https://user-images.githubusercontent.com/115984065/212721211-c995f107-839e-4f05-90c1-1c31910b3293.jpg)
 
 ![IMG_20230116_113156](https://user-images.githubusercontent.com/115984065/212721273-51748da5-fe8a-4438-a082-aaa16005c7a3.jpg)
 

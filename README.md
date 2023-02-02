@@ -25,9 +25,11 @@ This is a web based application developed for health related based website in in
 ## screenshots
 
 ### azure technologies -
+![azure technologies](https://user-images.githubusercontent.com/115984065/216260319-7d7bc7ff-dfa1-4442-ace7-968d4907e25b.jpg)
+
+
 ![anand health bot](https://user-images.githubusercontent.com/115984065/216259689-0a522081-2faa-485c-a6ff-b206b43fa866.jpg)
 ![anand static web apps](https://user-images.githubusercontent.com/115984065/216259729-c5f78975-133e-4e4b-9e13-aeb4b512c154.png)
-![azure technologies](https://user-images.githubusercontent.com/115984065/216260319-7d7bc7ff-dfa1-4442-ace7-968d4907e25b.jpg)
 
 
 ### health bot

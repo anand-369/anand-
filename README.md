@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://polite-moss-000fea500.2.azurestaticapps.net/
-**project demo video link** - https://youtu.be/-7ZmlId_oMY
+**project demo video link** - https://youtu.be/lXLOnKkpI5c
 
 ## Azure technologies used for Project
 
